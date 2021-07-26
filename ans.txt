@@ -1,1 +1,1 @@
-enter the number : factorial of 8is 40320
+Enter a value for n Enter a value for r nCr = 28
