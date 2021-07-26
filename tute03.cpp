@@ -16,4 +16,5 @@ int main()
     cout << "factorial of " << no << "is " << fac << endl;
       
     return 0;
+    
 }
